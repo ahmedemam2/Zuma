@@ -1,0 +1,17 @@
+C:\Users\Ahmed\source\repos\zumeok\zumeok\bin\Debug\net6.0-windows\zumeok.exe
+C:\Users\Ahmed\source\repos\zumeok\zumeok\bin\Debug\net6.0-windows\zumeok.deps.json
+C:\Users\Ahmed\source\repos\zumeok\zumeok\bin\Debug\net6.0-windows\zumeok.runtimeconfig.json
+C:\Users\Ahmed\source\repos\zumeok\zumeok\bin\Debug\net6.0-windows\zumeok.dll
+C:\Users\Ahmed\source\repos\zumeok\zumeok\bin\Debug\net6.0-windows\zumeok.pdb
+C:\Users\Ahmed\source\repos\zumeok\zumeok\obj\Debug\net6.0-windows\zumeok.csproj.AssemblyReference.cache
+C:\Users\Ahmed\source\repos\zumeok\zumeok\obj\Debug\net6.0-windows\zumeok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\source\repos\zumeok\zumeok\obj\Debug\net6.0-windows\zumeok.AssemblyInfoInputs.cache
+C:\Users\Ahmed\source\repos\zumeok\zumeok\obj\Debug\net6.0-windows\zumeok.AssemblyInfo.cs
+C:\Users\Ahmed\source\repos\zumeok\zumeok\obj\Debug\net6.0-windows\zumeok.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\repos\zumeok\zumeok\obj\Debug\net6.0-windows\zumeok.dll
+C:\Users\Ahmed\source\repos\zumeok\zumeok\obj\Debug\net6.0-windows\refint\zumeok.dll
+C:\Users\Ahmed\source\repos\zumeok\zumeok\obj\Debug\net6.0-windows\zumeok.pdb
+C:\Users\Ahmed\source\repos\zumeok\zumeok\obj\Debug\net6.0-windows\zumeok.genruntimeconfig.cache
+C:\Users\Ahmed\source\repos\zumeok\zumeok\obj\Debug\net6.0-windows\ref\zumeok.dll
+C:\Users\Ahmed\source\repos\zumeok\zumeok\obj\Debug\net6.0-windows\zumeok.csproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\zumeok\zumeok\obj\Debug\net6.0-windows\zumeok.Form1.resources
